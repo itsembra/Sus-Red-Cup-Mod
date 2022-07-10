@@ -10,6 +10,8 @@ The Storyline behind the Red-Sus-Cup will be found on the YouTube-Channel: Lazy 
 
 This Repository is free to use (Creative-Commons)
 
+_Please report Bugs under the offical GitHub Site._
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Created by ©️EmBra
