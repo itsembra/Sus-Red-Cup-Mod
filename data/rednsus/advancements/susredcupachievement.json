@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "rednsus:susredcup"
+    },
+    "title": {
+      "translate": "advancements.susredcupachievement.title"
+    },
+    "description": {
+      "translate": "advancements.susredcupachievement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "susredcupachievement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rednsus:susredcup"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2
+  },
+  "parent": "rednsus:susredoreachievement"
+}

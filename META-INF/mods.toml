@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License v3.0"
+
+[[mods]]
+modId="rednsus"
+version="0.1.0 Preview 1"
+displayName="SUS-RED-CUP-Mod"
+credits="Created by EmBra. Tips etc. will be appreaciated!"
+displayURL="https://github.com/EmBra724"
+authors="EmBra"
+description="The Storyline behind the Red-Sus-Cup will be found on the YouTube-Channel: Lazy NEFFEX Editor ( https://www.youtube.com/channel/UCzTgv83rAbymjucI_eeLiJQ?app=desktop&cbrd=1 )!"
+ 
+[[dependencies.rednsus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "rednsus:giantsusredcup"
+    },
+    "title": {
+      "translate": "advancements.giantsusredcupachievement.title"
+    },
+    "description": {
+      "translate": "advancements.giantsusredcupachievement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "giantsusredcupachievement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "rednsus:giantsusredcup"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 8
+  },
+  "parent": "rednsus:susredcupachievement"
+}

@@ -1,0 +1,22 @@
+{
+  "group": "fightbackthecollection",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rednsus:gratefuldisc"
+    },
+    {
+      "item": "rednsus:giantsusredcup"
+    },
+    {
+      "item": "rednsus:rumorsdisc"
+    },
+    {
+      "item": "rednsus:nevergiveupdisc"
+    }
+  ],
+  "result": {
+    "item": "rednsus:fightbackdisc",
+    "count": 1
+  }
+}

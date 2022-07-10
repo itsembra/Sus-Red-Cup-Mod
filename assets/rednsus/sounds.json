@@ -1,0 +1,72 @@
+{
+  "fwreverb": {
+    "category": "block",
+    "subtitle": "subtitles.fwreverb",
+    "sounds": [
+      {
+        "name": "rednsus:fwr",
+        "stream": false
+      }
+    ]
+  },
+  "fightback": {
+    "category": "music",
+    "subtitle": "subtitles.fightback",
+    "sounds": [
+      {
+        "name": "rednsus:fightback",
+        "stream": true
+      }
+    ]
+  },
+  "phintro": {
+    "category": "block",
+    "subtitle": "subtitles.phintro",
+    "sounds": [
+      {
+        "name": "rednsus:ph",
+        "stream": false
+      }
+    ]
+  },
+  "mdcfsound": {
+    "category": "block",
+    "subtitle": "subtitles.mdcfsound",
+    "sounds": [
+      {
+        "name": "rednsus:mdcf",
+        "stream": false
+      }
+    ]
+  },
+  "rumors": {
+    "category": "music",
+    "subtitle": "subtitles.rumors",
+    "sounds": [
+      {
+        "name": "rednsus:rumors",
+        "stream": true
+      }
+    ]
+  },
+  "nevergiveup": {
+    "category": "music",
+    "subtitle": "subtitles.nevergiveup",
+    "sounds": [
+      {
+        "name": "rednsus:nevergiveup",
+        "stream": true
+      }
+    ]
+  },
+  "grateful": {
+    "category": "music",
+    "subtitle": "subtitles.grateful",
+    "sounds": [
+      {
+        "name": "rednsus:grateful",
+        "stream": true
+      }
+    ]
+  }
+}

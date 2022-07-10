@@ -1,0 +1,10 @@
+{
+  "group": "susredmaterial",
+  "type": "minecraft:blasting",
+  "experience": 9,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "rednsus:susredore"
+  },
+  "result": "rednsus:susredmaterial"
+}

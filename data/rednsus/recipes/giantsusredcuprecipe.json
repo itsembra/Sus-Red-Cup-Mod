@@ -1,0 +1,39 @@
+{
+  "group": "susredcup",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rednsus:susredcup"
+    },
+    "2": {
+      "item": "rednsus:susredcup"
+    },
+    "3": {
+      "item": "rednsus:susredcup"
+    },
+    "4": {
+      "item": "minecraft:amethyst_cluster"
+    },
+    "5": {
+      "item": "rednsus:susredcup"
+    },
+    "6": {
+      "item": "rednsus:susredmaterial"
+    },
+    "7": {
+      "item": "rednsus:susredcup"
+    },
+    "8": {
+      "item": "rednsus:susredmaterial"
+    }
+  },
+  "result": {
+    "item": "rednsus:giantsusredcup",
+    "count": 1
+  }
+}

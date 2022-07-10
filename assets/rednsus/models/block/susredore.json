@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rednsus:blocks/susredoretexture",
+    "particle": "rednsus:blocks/susredoretexture"
+  }
+}

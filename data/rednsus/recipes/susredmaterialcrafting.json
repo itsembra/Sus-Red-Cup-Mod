@@ -1,0 +1,10 @@
+{
+  "group": "susredmaterial",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "rednsus:susredore"
+  },
+  "result": "rednsus:susredmaterial"
+}
