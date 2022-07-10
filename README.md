@@ -4,7 +4,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Storyline behind the Red-Sus-Cup will be found on the YouTube-Channel: Lazy NEFFEX Editor ( https://www.youtube.com/channel/UCzTgv83rAbymjucI_eeLiJQ?app=desktop&cbrd=1 )!
+The Storyline behind the Red-Sus-Cup will be found on the YouTube-Channel: Lazy NEFFEX Editor (https://www.youtube.com/channel/UCzTgv83rAbymjucI_eeLiJQ)!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
